@@ -15,7 +15,6 @@ The Spotify Playlist Data Extraction and Analysis project leverage Selenium to d
 - Selenium
 - ChromeDriver (or other WebDriver compatible with Selenium)
 - Pandas (for data manipulation and analysis)
-- [Add any other necessary dependencies.]
 
 ## Setup
 
@@ -27,6 +26,7 @@ The Spotify Playlist Data Extraction and Analysis project leverage Selenium to d
 2. Open and run the following notebooks:
 
   Spotify-data-scrapping-by-selenium.ipynb
+  
   Analysis-of-Spotify-dataset.ipynb
 
 ## Contributing
