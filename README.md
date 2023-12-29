@@ -25,9 +25,9 @@ The Spotify Playlist Data Extraction and Analysis project leverage Selenium to d
    
 2. Open and run the following notebooks:
 
-  Spotify-data-scrapping-by-selenium.ipynb
+  - Spotify-data-scrapping-by-selenium.ipynb
   
-  Analysis-of-Spotify-dataset.ipynb
+  - Analysis-of-Spotify-dataset.ipynb
 
 ## Contributing
 We welcome contributions from the community. To contribute to the project:
